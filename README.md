@@ -50,5 +50,5 @@ int main(void)
 }
 ```
 ## b_for
-
+0
 
