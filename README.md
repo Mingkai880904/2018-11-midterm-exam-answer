@@ -12,7 +12,7 @@ main()
     printf("1+5+9+...+401 等差級數總和為%d\n", total);
     getchar();
 }
-
+```
 a_while
 ```
 #include <stdio.h>
