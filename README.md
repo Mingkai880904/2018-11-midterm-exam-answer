@@ -1,4 +1,4 @@
-**_a_for_**
+a_for
 ```
 #include <stdio.h>
 main() 
